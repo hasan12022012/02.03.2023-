@@ -1,0 +1,25 @@
+.line {
+    background-color:green;
+    
+}
+
+h5{
+    font-weight:400 ;
+}
+
+.about h5{
+    font-weight: 400;
+}
+
+picture{
+
+}
+
+.picture{
+    width: 10%;
+    height: 10vh;
+    background-image: url(https://www.seekpng.com/png/detail/413-4139803_unknown-profile-profile-picture-unknown.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-position-x: right;
+    } 
